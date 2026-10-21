@@ -5,7 +5,7 @@
 GitHubのリモートリポジトリの練習用
 1. aaaaa
 1. bbbbbb
-1. cccccv
+1. cccccc
 + aaaaa
 + bbbbb
 + ccccc
