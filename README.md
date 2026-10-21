@@ -3,9 +3,9 @@
 ### README.md
 #### README.md
 GitHubのリモートリポジトリの練習用
-1. aaaaa  <ol>aaaaa</ol>
-1. bbbbb
-1. ccccc
-+aaaaa
-+bbbbb
-+ccccc
+1. aaaaa
+1. bbbbbb
+1. cccccv
++ aaaaa
++ bbbbb
++ ccccc
